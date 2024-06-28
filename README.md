@@ -8,10 +8,6 @@ A dynamic web application that allows users to search for movies and view relate
 - **Display Movie Images**: Shows images related to each movie, providing a visual representation
 - **Responsive Design**: Compatible with both desktop and mobile devices, ensuring a user-friendly experience across all platforms.
 
-## Live Demo
-
-You can check out a live demo of the app [here](#).
-
 ## Screenshots
 
 ![Movie Finder App Screenshot](movie.png)
